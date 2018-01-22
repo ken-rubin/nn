@@ -1,0 +1,14 @@
+{
+  "name": "nn",
+  "version": "1.0.0",
+  "description": "",
+  "main": "app.js",
+  "scripts": {
+    "start": "node app"
+  },
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "md5": "^2.2.1"
+  }
+}
